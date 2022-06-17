@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alextapply
-- 👀 I’m interested in data visualistion using R 
+- 👀 I’m interested in data visualistaion using R 
 
 <!---
 alextapply/alextapply is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
